@@ -85,14 +85,14 @@ footer{
 .effect p{
 	padding:10px
 }
-
 .effect-list {
 	width:30%
 	
 }
 
 .effect-li{
-
+	
+	float:left;
 }
 
 .effectlogo-li{
