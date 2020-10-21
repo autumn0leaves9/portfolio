@@ -9,7 +9,7 @@
   <body link="#fff" vlink="#fff" alink="blue">
   
     <header>
-      <div class="logo"><a href="SoundCreate.html" style="text-decoration:none;">BANBOO EFFECTS</a></div>
+      <div class="logo"><a href="index.html" style="text-decoration:none;">BANBOO EFFECTS</a></div>
       <ul class="headerli">
         <li><a href="effect.html">Effects</a></li>
         <li><a href="youtube.html">YouTube</a></li>
