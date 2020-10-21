@@ -56,10 +56,9 @@ li {
 footer{
   background:linear-gradient(to right,#159957 0%,#155799 100%);
   padding: 20px;
-  width: 100%;
   color:#fff;
   height:120px;
-  
+  position: absolute; bottom: 0;
 }
 
 .footer-logo{
@@ -70,6 +69,7 @@ footer{
 .flex-list{
 	display:flex;
 	flex-wrap:wrap;
+	padding:50px;
 }
 
 .flex-list li{
@@ -87,13 +87,18 @@ footer{
 }
 
 .effect-list {
-	padding-right:200px;
-	float:right;
+	width:30%
+	
+}
+
+.effect-li{
+	
+	float:left;
 }
 
 .effectlogo-li{
 	width:50%
-	float:left;
+	
 }
 
 .logo-li{
@@ -101,13 +106,9 @@ footer{
 	margin-left:50px;
 }
 
-.flex-list{
-	padding:50px;
-	
-}
 
-.Gorgeoustelop ul{
-	display:inline-block;
-	
+
+.Gorgeoustelop{
+	float:left;
 }
 
