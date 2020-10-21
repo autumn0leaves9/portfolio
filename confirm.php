@@ -12,7 +12,7 @@ session_start();
   </head>
   <body link="#fff" vlink="#fff" alink="blue">
     <header>
-      <div class="logo"><a href="SoundCreate.html" style="text-decoration:none;">BANBOO EFFECTS</div>
+      <div class="logo"><a href="index.html" style="text-decoration:none;">BANBOO EFFECTS</div>
       <ul class="headerli">
         <li><a href="effect.html">Effects</a></li>
         <li><a href="youtube.html">YouTube</a></li>
